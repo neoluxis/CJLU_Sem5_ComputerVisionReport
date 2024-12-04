@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}引言}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}相机标定的定义与目标}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}相机标定的研究背景}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}相机成像模型}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}针孔相机模型}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}畸变模型}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}张正友标定法原理与步骤}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}棋盘格图像的拍摄与预处理}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}单应性矩阵的求解}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}内参、外参的求解}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}畸变参数的标定}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}重投影误差分析}{5}{subsection.3.5}%
+\contentsline {section}{\numberline {4}实验与分析}{6}{section.4}%
+\contentsline {section}{\numberline {5}结论与展望}{7}{section.5}%

@@ -1,0 +1,112 @@
+% !TEX program = xelatex
+% !TEX encoding = UTF-8 Unicode
+\documentclass[hyperref,a4paper,UTF8]{ctexart}
+
+\usepackage[unicode=true,colorlinks,urlcolor=black,linkcolor=black,bookmarksnumbered=true]{hyperref}
+\usepackage{latexsym,amssymb,amsmath,amsbsy,amsopn,amstext,amsthm,amsxtra,color,bm,calc,ifpdf}
+
+
+\title{Quick Note}
+\author{Neolux Lee}   
+\date{\today}
+
+
+\begin{document} % 开始文档环境
+\maketitle % 根据设置生成内容
+\tableofcontents % 生成目录
+
+\newpage % 换页
+
+\section{Sectino 1} % 一级目录
+\subsection{Subsectine 1} % 二级目录
+
+Normal Text...... \\ % 使用 \\ 换行
+Textus  
+
+% 使用空行换行
+Texts...
+
+Inline formula: $a=1$, other content % 行内公式
+
+
+Line formula: 
+\[
+    b=2 % 行间公式
+\]
+
+\begin{equation}
+    c=3 % 带编号的行间公式
+\end{equation}
+
+\textbf{Bold Text} % 加粗
+\textit{Italic Text} % 斜体
+\underline{Underline Text} % 下划线
+\emph{Emphasize Text} % 强调
+
+\section{Section 2}
+\subsection{Subsection 2}
+
+\begin{itemize} % 无序列表
+    \item Item 1
+    \item Item 2
+    \item Item 3
+    \item Item 4
+\end{itemize}
+
+\begin{enumerate} % 有序列表
+    \item Item 1
+    \item Item 2
+    \item Item 3
+    \item Item 4
+\end{enumerate}
+
+\quad a \quad b \qquad c \qquad d % 间隔
+
+\begin{tabular}{|c|c|c|} % 表格
+    \hline
+    1 & 2 & 3 \\
+    \hline
+    4 & 5 & 6 \\
+    \hline
+    7 & 8 & 9 \\
+    \hline
+\end{tabular}
+
+\begin{equation}
+    \begin{bmatrix}
+        1 & 2 & 3 \\
+        4 & 5 & 6 \\
+        7 & 8 & 9
+    \end{bmatrix}
+\end{equation}
+
+\section{Alphabets}
+
+\subsection{Hellano Aliben}
+
+\[
+A \alpha \quad B \beta \quad \Gamma \gamma \quad \Delta \delta \quad
+\dots 
+\]
+
+\subsection{Copperplate}
+
+\[
+\mathcal{A} \quad \mathcal{B} \quad \mathcal{C} \quad \mathcal{D} \quad \mathcal{E} \quad \mathcal{F} \quad \mathcal{G} \quad \mathcal{H} \quad \mathcal{I} \quad \mathcal{J} \quad \mathcal{K} \quad \mathcal{L} \quad \mathcal{M} \quad \mathcal{N} \quad \mathcal{O} \quad \mathcal{P} \quad \mathcal{Q} \quad \mathcal{R} \quad \mathcal{S} \quad \mathcal{T} \quad \mathcal{U} \quad \mathcal{V} \quad \mathcal{W} \quad \mathcal{X} \quad \mathcal{Y} \quad \mathcal{Z}
+\]
+
+\subsection{Gothic}
+
+\[
+\mathfrak{A} \quad \mathfrak{B} \quad \mathfrak{C} \quad \mathfrak{D} \quad \mathfrak{E} \quad \mathfrak{F} \quad \mathfrak{G} \quad \mathfrak{H} \quad \mathfrak{I} \quad \mathfrak{J} \quad \mathfrak{K} \quad \mathfrak{L} \quad \mathfrak{M} \quad \mathfrak{N} \quad \mathfrak{O} \quad \mathfrak{P} \quad \mathfrak{Q} \quad \mathfrak{R} \quad \mathfrak{S} \quad \mathfrak{T} \quad \mathfrak{U} \quad \mathfrak{V} \quad \mathfrak{W} \quad \mathfrak{X} \quad \mathfrak{Y} \quad \mathfrak{Z}
+\]
+
+\section{Alphabets with Umlaut}
+
+\[
+\ddot{A} \quad \ddot{E} \quad \ddot{I} \quad \ddot{O} \quad \ddot{U} \quad \ddot{a} \quad \ddot{e} \quad \ddot{i} \quad \ddot{o} \quad \ddot{u}
+\]
+
+
+
+\end{document}

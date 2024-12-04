@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{bouguet2001camera}
+J.-Y. Bouguet.
+\newblock Camera calibration toolbox for matlab.
+\newblock In {\em Documentation of the Camera Calibration Toolbox}, 2001.
+\newblock Available at \url{http://www.vision.caltech.edu/bouguetj/calib_doc/}.
+
+\bibitem{hartley2004multiple}
+R.~Hartley and A.~Zisserman.
+\newblock {\em Multiple View Geometry in Computer Vision}.
+\newblock Cambridge University Press, 2nd edition, 2004.
+
+\bibitem{ma2003invitation}
+Y.~Ma, S.~Soatto, J.~Kosecka, and S.~S. Sastry.
+\newblock An invitation to 3d vision: From images to geometric models.
+\newblock {\em Springer}, 2003.
+\newblock ISBN: 978-0387008931.
+
+\bibitem{tsai1987calibration}
+R.~Y. Tsai.
+\newblock A versatile camera calibration technique for high-accuracy 3d machine vision metrology using off-the-shelf tv cameras and lenses.
+\newblock {\em IEEE Journal on Robotics and Automation}, 3(4):323--344, 1987.
+
+\bibitem{weng1992camera}
+J.~Weng, P.~Cohen, and M.~Herniou.
+\newblock Camera calibration with distortion models and accuracy evaluation.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence}, 14(10):965--980, 1992.
+
+\bibitem{zhang1998calibration}
+Z.~Zhang.
+\newblock A flexible new technique for camera calibration.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence}, 22(11):1330--1334, 1998.
+
+\end{thebibliography}
